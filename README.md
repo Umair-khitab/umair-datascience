@@ -1,3 +1,3 @@
 # umair-datascience
-this is m,y first git repository<br>
+this is my first git repository<br>
 Author- Umair khitab
